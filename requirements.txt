@@ -1,5 +1,3 @@
-
-```txt
 openai
 pyttsx3
 speechrecognition
